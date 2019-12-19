@@ -6,7 +6,6 @@
 
 <p> This is change is to verify the Stage vs Production</p>
   
-  <p> Thanks Anshul Sir  </p>
 <p>I am liking devops</p>
 <p>Hello!!!!</p>
 
